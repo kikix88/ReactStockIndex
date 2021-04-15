@@ -1,0 +1,23 @@
+.App {
+  text-align: left;
+  margin: 0;
+  box-sizing: border-box;
+
+}
+
+.App-logo {
+  height: 4vmin;
+  position: inline;
+  padding: 10px;
+  position: absolute;
+}
+
+
+.Footer {
+  background-color: lightgray;
+  width: 100%;
+  position: fixed;
+  bottom: 0;
+  text-align: center
+  ;
+}
